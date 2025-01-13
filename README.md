@@ -22,7 +22,7 @@ This repository contains MATLAB implementations for modeling and simulating a no
 
 ## How to Use
 
-1. Clone this repository: git clone https://github.com/yourusername/mechanical-system-simulation.git
+1. Clone this repository: git clone https://github.com/Pletea-Marinescu-Valentin/mechanical-system-simulation.git
 2. Open MATLAB and navigate to the repository folder.
 3. Open `script.m` and run it to execute the simulations and generate the required plots.
 4. Use Simulink to explore the `model.slx` file for a graphical representation of the system.
